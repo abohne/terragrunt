@@ -6,14 +6,12 @@ require (
 	cloud.google.com/go/storage v1.10.0
 	github.com/aws/aws-sdk-go v1.29.34
 	github.com/creack/pty v1.1.9
-	github.com/fatih/color v1.9.0
 	github.com/fatih/structs v1.1.0
 	github.com/go-errors/errors v1.0.2-0.20180813162953-d98b870cc4e0
 	github.com/gruntwork-io/terratest v0.30.26
 	github.com/hashicorp/go-getter v1.4.2-0.20200106182914-9813cbd4eb02
 	github.com/hashicorp/go-version v1.2.0
 	github.com/hashicorp/hcl/v2 v2.8.2
-	github.com/hashicorp/hcl2 v0.0.0-20191002203319-fb75b3253c80
 	github.com/hashicorp/terraform v0.12.24
 	github.com/hashicorp/terraform-config-inspect v0.0.0-20191212124732-c6ae6269b9d7
 	github.com/mattn/go-zglob v0.0.2-0.20190814121620-e3c945676326
@@ -28,5 +26,4 @@ require (
 	golang.org/x/sync v0.0.0-20200625203802-6e8e738ad208
 	golang.org/x/sys v0.0.0-20200905004654-be1d3432aa8f
 	google.golang.org/api v0.35.0
-	gotest.tools v2.2.0+incompatible
 )
